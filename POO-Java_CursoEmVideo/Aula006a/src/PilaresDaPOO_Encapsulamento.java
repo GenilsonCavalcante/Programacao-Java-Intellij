@@ -17,7 +17,7 @@ public class PilaresDaPOO_Encapsulamento {
             a pilha possui uma cápsula, um envoltório que impede esse acesso do usuário com
             algumas coisas internas da pilha.
 
-            Além do encapsulamento fornecer essa proteção, ela também possui putra vantagem
+            Além do encapsulamento fornecer essa proteção, ela também possui outra vantagem
             que é trazer a padronização dos elementos criados. Exemplo, um modelo de pilha,
             pode ser utilizado por qualquer controle remoto.
 
